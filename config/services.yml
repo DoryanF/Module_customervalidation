@@ -1,0 +1,5 @@
+services:
+    customervalidation.controller.admin:
+        class: CustomerValidation\Controller\CustomerValidationController
+        autowire: true
+        autoconfigure: true

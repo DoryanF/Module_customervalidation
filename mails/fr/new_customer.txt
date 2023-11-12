@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Bonjour, {firstname} {lastname}
+
+Merci d'avoir créé un compte le {date}
+
+Votre compte doit être activé par un administrateur
+
+Vous receverez un mail vous confirmant l'activation de votre compte
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

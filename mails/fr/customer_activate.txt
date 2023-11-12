@@ -1,0 +1,9 @@
+ 
+
+{shop_url}
+
+Bonjour, {firstname} {lastname}
+
+Votre compte à été activé le {date}
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

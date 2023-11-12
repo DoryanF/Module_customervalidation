@@ -1,0 +1,8 @@
+customer_validation_toggle_is_validate:
+  path: customervalidation/{customerId}/toggle-is-validation
+  methods: [ POST ]
+  defaults:
+    _controller: CustomerValidation\Controller\CustomerValidationController::toggleIsValidate
+    _disable_module_prefix: true
+  requirements:
+    customerId: \d+
